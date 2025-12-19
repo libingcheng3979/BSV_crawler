@@ -2,7 +2,7 @@
 
 ## 项目简介
 
-### 这可能是你见过最好用的百度街景爬取工具："street_view_crawler" is all you need.
+### 这可能是你见过最好用的百度街景爬取工具："BSV_Crawler" is all you need.
 
 本项目是一个基于百度地图API的街景爬虫工具，支持批量获取街景图片（四方向街景或全景图）。主要功能包括：
 
